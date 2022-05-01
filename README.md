@@ -124,7 +124,7 @@ The build is minified and the filenames include the hashes.<br>
 
 Your app is ready to be deployed.
 
-### [Firebase](https://firebase.google.com/)
+# Firebase
 
 Install the Firebase CLI if you haven’t already by running `npm install -g firebase-tools`. Sign up for a [Firebase account](https://console.firebase.google.com/) and create a new project. Run `firebase login` and login with your previous created Firebase account.
 
